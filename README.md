@@ -24,6 +24,6 @@ Casos de teste e registro de bugs.
 
 ## CONTATO
 - EMAIL: josiane.ssbarbosa@gmail.com
-- LinKedln:linkedin.com/in/josianebarbosa-s
+- LinKedln: linkedin.com/in/josianebarbosa-s
 
 
