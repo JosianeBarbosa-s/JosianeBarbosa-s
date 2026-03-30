@@ -1,6 +1,6 @@
 ## Josiane Barbosa
 
-Estudante de Análise e desenvolvimento de sistemas | Em busca de estágio em TI
+Estudante de Análise e desenvolvimento de sistemas | Em busca de estágio em TI |
 HTML | CSS | JavaScript | SQL | QA
 
 ## SOBRE MIM
@@ -10,12 +10,12 @@ de dados com SQL e testes de software (QA). Busco uma oportunidade de estágio p
 meus conhecimentos, aprender na prática e evoluir profissionalmente.
 
 ## PROJETOS EM DESTAQUE
-- Sistema de cadastro de usuários
-Aplicação com cadastro e listagem de dados
-- Lista de tarefas (To-Do List)
-Sistema interativo com JavaScript
-- Testes de software (QA)
-Casos de teste e registro de bugs
+- Sistema de cadastro de usuários:
+Aplicação com cadastro e listagem de dados.
+- Lista de tarefas (To-Do List):
+Sistema interativo com JavaScript.
+- Testes de software (QA):
+Casos de teste e registro de bugs.
   
 # ATUALMENTE ESTUDANDO
 - Testes de software (QA)
@@ -23,7 +23,7 @@ Casos de teste e registro de bugs
 - Boas práticas de código
 
 ## CONTATO
-EMAIL: josiane.ssbarbosa@gmail.com
-LinKedln:linkedin.com/in/josianebarbosa-s
+- EMAIL: josiane.ssbarbosa@gmail.com
+- LinKedln:linkedin.com/in/josianebarbosa-s
 
 
